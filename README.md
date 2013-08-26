@@ -11,6 +11,7 @@ A simple experiment with native node modules to download files from the web, usi
 
 ## known bugs and issues
 
+* ETA still looks like copying files in Windoze XP;
 * The downloader won't work with proxy (afaik);
 * The downloader doesn't support resuming, unlike axel;
 * If any part of the downloader stops, kaputz to all;
