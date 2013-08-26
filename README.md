@@ -12,7 +12,7 @@ A simple experiment with native node modules to download files from the web, usi
 ## known bugs and issues
 
 * The downloader won't work with proxy (afaik);
-* The downloader doesn't support resuming, like axel;
+* The downloader doesn't support resuming, unlike axel;
 * If any part of the downloader stops, kaputz to all;
 * You may find others since this code is a little bit old (mid 2012).
 
