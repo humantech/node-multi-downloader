@@ -1,0 +1,23 @@
+{
+	"name" : "node-multi-downloader",
+	"description" : "A simple experiment built on top of node to implement a simple http downloader similar to axel",
+	"version" : "0.1.0",
+	"author" : "Richard Kuesters <richard@humantech.com.br>",
+	"engines" : { "node" : ">=0.6" },
+	"license" : { "type" : "MIT" },
+	"keywords" : [ "download", "http", "multipart" ],
+	"repository" : {
+		"type" : "git",
+		"url" : "https://github.com/vltr/node-multi-downloader"
+	},
+	"scripts" : {},
+	"directories" : {},
+	"main" : "./lib/downloader.js",
+	"dependencies" : {},
+	"devDependencies" : {},
+	"optionalDependencies" : {},
+	"bugs" : {
+		"url" : "https://github.com/vltr/node-multi-downloader/issues",
+		"email" : "richard@humantech.com.br"
+	}
+}
